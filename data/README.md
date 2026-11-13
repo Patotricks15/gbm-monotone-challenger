@@ -6,3 +6,4 @@ Source: Kaggle `wordsforthewise/lending-club`, file `accepted_2007_to_2018Q4.csv
 - Local path: `~/.local/share/credit-data/lendingclub/accepted_2007_to_2018Q4.csv.gz` (outside this repository).
 - Not committed to git. Raw data is excluded by `.gitignore`.
 - Licence: check the dataset page on Kaggle before redistributing.
+- Deviation from the plan: the plan asks for read-in-place only. This copy was downloaded to the workstation with the owner's approval (2026-11-13). It stays outside git.
